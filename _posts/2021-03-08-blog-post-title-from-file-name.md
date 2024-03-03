@@ -10,7 +10,7 @@ One project I haven't mentioned yet was during my initial days at Focusbear. We 
 
 ## Lessons and Experiences
 
-1. **Fearlessness**: There were features we wanted to ship for the mobile app, but we couldn't find the right way to do it. Sometimes there was no documentation or it was too verbose. For example, listing all apps installed on a phone required diving straight into the AOSP source code.
+1. **Fearlessness**: There were features we wanted to ship for the mobile app, but we couldn't find the right way to do it. Sometimes there was no documentation or it was too verbose. For example, listing all apps installed on a phone required diving straight into the android operating system source code
 
 2. **Move fast, break things, learn fast**: Our codebase was never stable; we were probably merging 10-15 PRs every week. The codebase grew rapidly, but the key to managing the chaos was fixing things as they broke. Unit tests and automation scripts for UI tests don't help much when you're building quickly and testing with pilot users.
 
