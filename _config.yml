@@ -20,7 +20,7 @@ linkedin_username: "ayush-k-75b379223"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+
 
 kramdown:
   syntax_highlighter_opts:
