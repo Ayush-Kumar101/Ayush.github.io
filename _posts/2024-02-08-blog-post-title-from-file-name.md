@@ -6,7 +6,7 @@ Once I had the PC, I was uncertain about how to start learning programming. I sp
 
 The startup didn't succeed, but soon after, I joined [focusbear.io](http://focusbear.io) as a backend developer. Little did I know, this would be the most epic job I'd ever have. Over 1.5 years of employment, I wrote around 50,000 lines of code, worked on the backend, then moved to frontend, then to Android and iOS. The startup aimed to create an app similar to digital wellbeing but cross-platform, with features like routine scheduling. It's been an insane experience.
 
-One project I haven't mentioned yet was during my initial days at Focusbear. We aimed to create an AI-based fitness app that could count your reps using a pose detection algorithm. I worked on this for around 4-5 months, focusing on Java APIs and neural engines like TNN and NCNN. It was one of the most technically challenging and fun projects I've worked on.
+One project I haven't mentioned yet was during my initial days at Focusbear. We aimed to create an AI-based fitness app that could count your reps using a pose detection algorithm. I worked on this for around 4-5 months, focusing on Java APIs and neural engines like TNN,MLkit and NCNN. It was one of the most technically challenging and fun projects I've worked on.
 
 ## Lessons and Experiences
 
